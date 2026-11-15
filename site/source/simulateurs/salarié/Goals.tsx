@@ -1,3 +1,4 @@
+import { Condition } from '@/components/EngineValue/Condition'
 import PeriodSwitch from '@/components/PeriodSwitch'
 import { SimulationGoal, SimulationGoals } from '@/components/Simulation'
 
@@ -16,6 +17,9 @@ export default function SalariéSimulationGoals() {
 				small
 				dottedName="salarié . contrat . salaire brut . équivalent temps plein"
 			/>
+			<Condition expression="salarié . rémunération . brut != salarié . contrat . salaire brut">
+				<SimulationGoal small dottedName="salarié . rémunération . brut" />
+			</Condition>
 			<SimulationGoal dottedName="salarié . rémunération . net . à payer avant impôt" />
 			<TitresRestaurant />
 			<SimulationGoal dottedName="salarié . rémunération . net . payé après impôt" />
