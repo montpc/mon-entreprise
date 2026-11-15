@@ -2,6 +2,7 @@
 
 exports[`calculate simulations-salarié > ATMP 1`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2267
 salarié . rémunération . contrôle minimum: null
@@ -11,6 +12,7 @@ salarié . rémunération . net . à payer avant impôt: 1561"
 
 exports[`calculate simulations-salarié > ATMP 2`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2217
 salarié . rémunération . contrôle minimum: null
@@ -20,6 +22,7 @@ salarié . rémunération . net . à payer avant impôt: 1561"
 
 exports[`calculate simulations-salarié > ATMP 3`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2220
 salarié . rémunération . contrôle minimum: null
@@ -29,6 +32,7 @@ salarié . rémunération . net . à payer avant impôt: 1561"
 
 exports[`calculate simulations-salarié > ATMP 4`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2307
 salarié . rémunération . contrôle minimum: null
@@ -38,6 +42,7 @@ salarié . rémunération . net . à payer avant impôt: 1561"
 
 exports[`calculate simulations-salarié > JEI 1`] = `
 "salarié . contrat . salaire brut: 3000
+salarié . contrat . salaire brut . taux horaire: 20
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3440
 salarié . rémunération . contrôle minimum: null
@@ -47,6 +52,7 @@ salarié . rémunération . net . à payer avant impôt: 2353"
 
 exports[`calculate simulations-salarié > JEI 2`] = `
 "salarié . contrat . salaire brut: 20000
+salarié . contrat . salaire brut . taux horaire: 132
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 26405
 salarié . rémunération . contrôle minimum: null
@@ -58,6 +64,7 @@ Notifications affichées : salarié . contrat . salaire brut . contrôle salaire
 
 exports[`calculate simulations-salarié > activité partielle 1`] = `
 "salarié . contrat . salaire brut: 1560
+salarié . contrat . salaire brut . taux horaire: 10
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 176
 salarié . rémunération . contrôle minimum: true
@@ -69,6 +76,7 @@ Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 
 exports[`calculate simulations-salarié > activité partielle 2`] = `
 "salarié . contrat . salaire brut: 4000
+salarié . contrat . salaire brut . taux horaire: 26
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 980
 salarié . rémunération . contrôle minimum: null
@@ -78,6 +86,7 @@ salarié . rémunération . net . à payer avant impôt: 2242"
 
 exports[`calculate simulations-salarié > activité partielle 3`] = `
 "salarié . contrat . salaire brut: 8000
+salarié . contrat . salaire brut . taux horaire: 53
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1940
 salarié . rémunération . contrôle minimum: null
@@ -87,6 +96,7 @@ salarié . rémunération . net . à payer avant impôt: 4484"
 
 exports[`calculate simulations-salarié > activité partielle 4`] = `
 "salarié . contrat . salaire brut: 4000
+salarié . contrat . salaire brut . taux horaire: 26
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1613
 salarié . rémunération . contrôle minimum: null
@@ -96,6 +106,7 @@ salarié . rémunération . net . à payer avant impôt: 2405"
 
 exports[`calculate simulations-salarié > activité partielle 5`] = `
 "salarié . contrat . salaire brut: 4000
+salarié . contrat . salaire brut . taux horaire: 26
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2729
 salarié . rémunération . contrôle minimum: null
@@ -105,6 +116,7 @@ salarié . rémunération . net . à payer avant impôt: 2682"
 
 exports[`calculate simulations-salarié > activité partielle 6`] = `
 "salarié . contrat . salaire brut: 3000
+salarié . contrat . salaire brut . taux horaire: 25
 salarié . contrat . salaire brut . équivalent temps plein: 3750
 salarié . coût total employeur: 740
 salarié . rémunération . contrôle minimum: null
@@ -114,6 +126,7 @@ salarié . rémunération . net . à payer avant impôt: 1800"
 
 exports[`calculate simulations-salarié > activité partielle 7`] = `
 "salarié . contrat . salaire brut: 4000
+salarié . contrat . salaire brut . taux horaire: 26
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 980
 salarié . rémunération . contrôle minimum: null
@@ -123,6 +136,7 @@ salarié . rémunération . net . à payer avant impôt: 2242"
 
 exports[`calculate simulations-salarié > aides 1`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2300
 salarié . rémunération . contrôle minimum: null
@@ -132,6 +146,7 @@ salarié . rémunération . net . à payer avant impôt: 1561"
 
 exports[`calculate simulations-salarié > aides 2`] = `
 "salarié . contrat . salaire brut: 10000
+salarié . contrat . salaire brut . taux horaire: 66
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 12806
 salarié . rémunération . contrôle minimum: null
@@ -143,6 +158,7 @@ Notifications affichées : salarié . contrat . salaire brut . contrôle salaire
 
 exports[`calculate simulations-salarié > aides 3`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1832
 salarié . rémunération . contrôle minimum: null
@@ -152,6 +168,7 @@ salarié . rémunération . net . à payer avant impôt: 1561"
 
 exports[`calculate simulations-salarié > aides 4`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2439
 salarié . rémunération . contrôle minimum: null
@@ -163,6 +180,7 @@ Notifications affichées : salarié . contrat . CDD . information"
 
 exports[`calculate simulations-salarié > apprentissage 1`] = `
 "salarié . contrat . salaire brut: 1500
+salarié . contrat . salaire brut . taux horaire: 10
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1131
 salarié . rémunération . contrôle minimum: null
@@ -172,6 +190,7 @@ salarié . rémunération . net . à payer avant impôt: 1360"
 
 exports[`calculate simulations-salarié > apprentissage 2`] = `
 "salarié . contrat . salaire brut: 2500
+salarié . contrat . salaire brut . taux horaire: 16
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3132
 salarié . rémunération . contrôle minimum: null
@@ -181,6 +200,7 @@ salarié . rémunération . net . à payer avant impôt: 2152"
 
 exports[`calculate simulations-salarié > avantages 1`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2439
 salarié . rémunération . contrôle minimum: null
@@ -190,6 +210,7 @@ salarié . rémunération . net . à payer avant impôt: 1540"
 
 exports[`calculate simulations-salarié > avantages 2`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2449
 salarié . rémunération . contrôle minimum: null
@@ -199,6 +220,7 @@ salarié . rémunération . net . à payer avant impôt: 1539"
 
 exports[`calculate simulations-salarié > avantages 3`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2370
 salarié . rémunération . contrôle minimum: null
@@ -208,6 +230,7 @@ salarié . rémunération . net . à payer avant impôt: 1548"
 
 exports[`calculate simulations-salarié > cadre 1`] = `
 "salarié . contrat . salaire brut: 3000
+salarié . contrat . salaire brut . taux horaire: 20
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4053
 salarié . rémunération . contrôle minimum: null
@@ -217,6 +240,7 @@ salarié . rémunération . net . à payer avant impôt: 2348"
 
 exports[`calculate simulations-salarié > cadre 2`] = `
 "salarié . contrat . salaire brut: 8000
+salarié . contrat . salaire brut . taux horaire: 53
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 11570
 salarié . rémunération . contrôle minimum: null
@@ -226,6 +250,7 @@ salarié . rémunération . net . à payer avant impôt: 6232"
 
 exports[`calculate simulations-salarié > cdd 1`] = `
 "salarié . contrat . salaire brut: 2200
+salarié . contrat . salaire brut . taux horaire: 15
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3046
 salarié . rémunération . contrôle minimum: null
@@ -237,6 +262,7 @@ Notifications affichées : salarié . contrat . CDD . information"
 
 exports[`calculate simulations-salarié > cdd 2`] = `
 "salarié . contrat . salaire brut: 2200
+salarié . contrat . salaire brut . taux horaire: 15
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3302
 salarié . rémunération . contrôle minimum: null
@@ -248,6 +274,7 @@ Notifications affichées : salarié . contrat . CDD . information"
 
 exports[`calculate simulations-salarié > cdd 3`] = `
 "salarié . contrat . salaire brut: 2200
+salarié . contrat . salaire brut . taux horaire: 15
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3576
 salarié . rémunération . contrôle minimum: null
@@ -259,6 +286,7 @@ Notifications affichées : salarié . contrat . CDD . information"
 
 exports[`calculate simulations-salarié > cdd 4`] = `
 "salarié . contrat . salaire brut: 2200
+salarié . contrat . salaire brut . taux horaire: 15
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4365
 salarié . rémunération . contrôle minimum: null
@@ -270,6 +298,7 @@ Notifications affichées : salarié . contrat . CDD . information"
 
 exports[`calculate simulations-salarié > cdd 5`] = `
 "salarié . contrat . salaire brut: 2200
+salarié . contrat . salaire brut . taux horaire: 15
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3576
 salarié . rémunération . contrôle minimum: null
@@ -281,6 +310,7 @@ Notifications affichées : salarié . convention collective . avertissement conv
 
 exports[`calculate simulations-salarié > contrat pro 1`] = `
 "salarié . contrat . salaire brut: 1500
+salarié . contrat . salaire brut . taux horaire: 10
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1566
 salarié . rémunération . contrôle minimum: null
@@ -290,6 +320,7 @@ salarié . rémunération . net . à payer avant impôt: 1165"
 
 exports[`calculate simulations-salarié > effectif 1`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2249
 salarié . rémunération . contrôle minimum: null
@@ -299,6 +330,7 @@ salarié . rémunération . net . à payer avant impôt: 1561"
 
 exports[`calculate simulations-salarié > effectif 2`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2259
 salarié . rémunération . contrôle minimum: null
@@ -308,6 +340,7 @@ salarié . rémunération . net . à payer avant impôt: 1561"
 
 exports[`calculate simulations-salarié > effectif 3`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2270
 salarié . rémunération . contrôle minimum: null
@@ -317,6 +350,7 @@ salarié . rémunération . net . à payer avant impôt: 1561"
 
 exports[`calculate simulations-salarié > effectif 4`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2270
 salarié . rémunération . contrôle minimum: null
@@ -326,6 +360,7 @@ salarié . rémunération . net . à payer avant impôt: 1561"
 
 exports[`calculate simulations-salarié > frais pro - DFS 1`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2121
 salarié . rémunération . contrôle minimum: null
@@ -335,6 +370,7 @@ salarié . rémunération . net . à payer avant impôt: 1576"
 
 exports[`calculate simulations-salarié > frais pro - DFS 2`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2121
 salarié . rémunération . contrôle minimum: null
@@ -344,6 +380,7 @@ salarié . rémunération . net . à payer avant impôt: 1576"
 
 exports[`calculate simulations-salarié > frais pro - DFS 3`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2121
 salarié . rémunération . contrôle minimum: null
@@ -353,6 +390,7 @@ salarié . rémunération . net . à payer avant impôt: 1576"
 
 exports[`calculate simulations-salarié > frais pro - DFS 4`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2121
 salarié . rémunération . contrôle minimum: null
@@ -362,6 +400,7 @@ salarié . rémunération . net . à payer avant impôt: 1576"
 
 exports[`calculate simulations-salarié > frais pro - DFS 5`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2249
 salarié . rémunération . contrôle minimum: null
@@ -371,6 +410,7 @@ salarié . rémunération . net . à payer avant impôt: 1561"
 
 exports[`calculate simulations-salarié > frais pro - DFS 6`] = `
 "salarié . contrat . salaire brut: 1700
+salarié . contrat . salaire brut . taux horaire: 11
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1821
 salarié . rémunération . contrôle minimum: true
@@ -382,6 +422,7 @@ Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 
 exports[`calculate simulations-salarié > frais pro - DFS 7`] = `
 "salarié . contrat . salaire brut: 2600
+salarié . contrat . salaire brut . taux horaire: 17
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2948
 salarié . rémunération . contrôle minimum: null
@@ -391,6 +432,7 @@ salarié . rémunération . net . à payer avant impôt: 2107"
 
 exports[`calculate simulations-salarié > frais pro - abo transports + transports personnels 1`] = `
 "salarié . contrat . salaire brut: 3200
+salarié . contrat . salaire brut . taux horaire: 21
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4373
 salarié . rémunération . contrôle minimum: null
@@ -400,6 +442,7 @@ salarié . rémunération . net . à payer avant impôt: 2553"
 
 exports[`calculate simulations-salarié > frais pro - abo transports + transports personnels 2`] = `
 "salarié . contrat . salaire brut: 3200
+salarié . contrat . salaire brut . taux horaire: 21
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 5087
 salarié . rémunération . contrôle minimum: null
@@ -409,6 +452,7 @@ salarié . rémunération . net . à payer avant impôt: 2924"
 
 exports[`calculate simulations-salarié > frais pro - abo transports + transports personnels 3`] = `
 "salarié . contrat . salaire brut: 3200
+salarié . contrat . salaire brut . taux horaire: 21
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4690
 salarié . rémunération . contrôle minimum: null
@@ -418,6 +462,7 @@ salarié . rémunération . net . à payer avant impôt: 2836"
 
 exports[`calculate simulations-salarié > frais pro - abonnement transports publics 1`] = `
 "salarié . contrat . salaire brut: 3200
+salarié . contrat . salaire brut . taux horaire: 21
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4372
 salarié . rémunération . contrôle minimum: null
@@ -427,6 +472,7 @@ salarié . rémunération . net . à payer avant impôt: 2551"
 
 exports[`calculate simulations-salarié > frais pro - abonnement transports publics 2`] = `
 "salarié . contrat . salaire brut: 3200
+salarié . contrat . salaire brut . taux horaire: 21
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 5082
 salarié . rémunération . contrôle minimum: null
@@ -436,6 +482,7 @@ salarié . rémunération . net . à payer avant impôt: 3261"
 
 exports[`calculate simulations-salarié > frais pro - abonnement transports publics 3`] = `
 "salarié . contrat . salaire brut: 3200
+salarié . contrat . salaire brut . taux horaire: 21
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4372
 salarié . rémunération . contrôle minimum: null
@@ -445,6 +492,7 @@ salarié . rémunération . net . à payer avant impôt: 2551"
 
 exports[`calculate simulations-salarié > frais pro - abonnement transports publics 4`] = `
 "salarié . contrat . salaire brut: 3200
+salarié . contrat . salaire brut . taux horaire: 21
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4348
 salarié . rémunération . contrôle minimum: null
@@ -454,6 +502,7 @@ salarié . rémunération . net . à payer avant impôt: 2527"
 
 exports[`calculate simulations-salarié > frais pro - outre-mer 1`] = `
 "salarié . contrat . salaire brut: 3200
+salarié . contrat . salaire brut . taux horaire: 21
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4043
 salarié . rémunération . contrôle minimum: null
@@ -463,6 +512,7 @@ salarié . rémunération . net . à payer avant impôt: 2586"
 
 exports[`calculate simulations-salarié > frais pro - outre-mer 2`] = `
 "salarié . contrat . salaire brut: 3200
+salarié . contrat . salaire brut . taux horaire: 21
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4057
 salarié . rémunération . contrôle minimum: null
@@ -472,6 +522,7 @@ salarié . rémunération . net . à payer avant impôt: 2583"
 
 exports[`calculate simulations-salarié > frais pro - titres restaurant 1`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2289
 salarié . rémunération . contrôle minimum: null
@@ -481,6 +532,7 @@ salarié . rémunération . net . à payer avant impôt: 1521"
 
 exports[`calculate simulations-salarié > frais pro - titres restaurant 2`] = `
 "salarié . contrat . salaire brut: 3000
+salarié . contrat . salaire brut . taux horaire: 20
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4241
 salarié . rémunération . contrôle minimum: null
@@ -490,6 +542,7 @@ salarié . rémunération . net . à payer avant impôt: 2142"
 
 exports[`calculate simulations-salarié > frais pro - titres restaurant 3`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2332
 salarié . rémunération . contrôle minimum: null
@@ -499,6 +552,7 @@ salarié . rémunération . net . à payer avant impôt: 1493"
 
 exports[`calculate simulations-salarié > frais pro - transports personnels seul 1`] = `
 "salarié . contrat . salaire brut: 3200
+salarié . contrat . salaire brut . taux horaire: 21
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4373
 salarié . rémunération . contrôle minimum: null
@@ -508,6 +562,7 @@ salarié . rémunération . net . à payer avant impôt: 2553"
 
 exports[`calculate simulations-salarié > frais pro - transports personnels seul 2`] = `
 "salarié . contrat . salaire brut: 3200
+salarié . contrat . salaire brut . taux horaire: 21
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4373
 salarié . rémunération . contrôle minimum: null
@@ -517,6 +572,7 @@ salarié . rémunération . net . à payer avant impôt: 2553"
 
 exports[`calculate simulations-salarié > frais pro - transports personnels seul 3`] = `
 "salarié . contrat . salaire brut: 3200
+salarié . contrat . salaire brut . taux horaire: 21
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 5087
 salarié . rémunération . contrôle minimum: null
@@ -526,6 +582,7 @@ salarié . rémunération . net . à payer avant impôt: 2919"
 
 exports[`calculate simulations-salarié > frais pro - transports personnels seul 4`] = `
 "salarié . contrat . salaire brut: 3200
+salarié . contrat . salaire brut . taux horaire: 21
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4373
 salarié . rémunération . contrôle minimum: null
@@ -535,6 +592,7 @@ salarié . rémunération . net . à payer avant impôt: 2553"
 
 exports[`calculate simulations-salarié > frais pro - transports personnels seul 5`] = `
 "salarié . contrat . salaire brut: 3200
+salarié . contrat . salaire brut . taux horaire: 21
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4348
 salarié . rémunération . contrôle minimum: null
@@ -544,6 +602,7 @@ salarié . rémunération . net . à payer avant impôt: 2528"
 
 exports[`calculate simulations-salarié > frais pro - transports personnels seul 6`] = `
 "salarié . contrat . salaire brut: 3200
+salarié . contrat . salaire brut . taux horaire: 21
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4146
 salarié . rémunération . contrôle minimum: null
@@ -553,6 +612,7 @@ salarié . rémunération . net . à payer avant impôt: 2564"
 
 exports[`calculate simulations-salarié > heures supplémentaires et complémentaires 1`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2346
 salarié . rémunération . contrôle minimum: null
@@ -562,6 +622,7 @@ salarié . rémunération . net . à payer avant impôt: 1636"
 
 exports[`calculate simulations-salarié > heures supplémentaires et complémentaires 2`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2307
 salarié . rémunération . contrôle minimum: null
@@ -571,6 +632,7 @@ salarié . rémunération . net . à payer avant impôt: 1606"
 
 exports[`calculate simulations-salarié > heures supplémentaires et complémentaires 3`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2374
 salarié . rémunération . contrôle minimum: null
@@ -580,6 +642,7 @@ salarié . rémunération . net . à payer avant impôt: 1636"
 
 exports[`calculate simulations-salarié > heures supplémentaires et complémentaires 4`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2345
 salarié . rémunération . contrôle minimum: null
@@ -591,6 +654,7 @@ Notifications affichées : salarié . convention collective . avertissement conv
 
 exports[`calculate simulations-salarié > heures supplémentaires et complémentaires 5`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2314
 salarié . rémunération . contrôle minimum: null
@@ -602,6 +666,7 @@ Notifications affichées : salarié . convention collective . avertissement conv
 
 exports[`calculate simulations-salarié > heures supplémentaires et complémentaires 6`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2296
 salarié . rémunération . contrôle minimum: null
@@ -613,6 +678,7 @@ Notifications affichées : salarié . convention collective . avertissement conv
 
 exports[`calculate simulations-salarié > heures supplémentaires et complémentaires 7`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 19
 salarié . contrat . salaire brut . équivalent temps plein: 2917
 salarié . coût total employeur: 3279
 salarié . rémunération . contrôle minimum: null
@@ -624,6 +690,7 @@ Notifications affichées : salarié . temps de travail . heures complémentaires
 
 exports[`calculate simulations-salarié > heures supplémentaires et complémentaires 8`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 18
 salarié . contrat . salaire brut . équivalent temps plein: 2692
 salarié . coût total employeur: 3159
 salarié . rémunération . contrôle minimum: null
@@ -635,6 +702,7 @@ Notifications affichées : salarié . temps de travail . heures complémentaires
 
 exports[`calculate simulations-salarié > impôt sur le revenu - quotient familial 1`] = `
 "salarié . contrat . salaire brut: 3000
+salarié . contrat . salaire brut . taux horaire: 20
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4007
 salarié . rémunération . contrôle minimum: null
@@ -644,6 +712,7 @@ salarié . rémunération . net . à payer avant impôt: 2353"
 
 exports[`calculate simulations-salarié > impôt sur le revenu - quotient familial 2`] = `
 "salarié . contrat . salaire brut: 3000
+salarié . contrat . salaire brut . taux horaire: 20
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4007
 salarié . rémunération . contrôle minimum: null
@@ -653,6 +722,7 @@ salarié . rémunération . net . à payer avant impôt: 2353"
 
 exports[`calculate simulations-salarié > impôt sur le revenu - quotient familial 3`] = `
 "salarié . contrat . salaire brut: 3000
+salarié . contrat . salaire brut . taux horaire: 20
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4007
 salarié . rémunération . contrôle minimum: null
@@ -662,6 +732,7 @@ salarié . rémunération . net . à payer avant impôt: 2353"
 
 exports[`calculate simulations-salarié > impôt sur le revenu - quotient familial 4`] = `
 "salarié . contrat . salaire brut: 3000
+salarié . contrat . salaire brut . taux horaire: 20
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4007
 salarié . rémunération . contrôle minimum: null
@@ -671,6 +742,7 @@ salarié . rémunération . net . à payer avant impôt: 2353"
 
 exports[`calculate simulations-salarié > impôt sur le revenu - quotient familial 5`] = `
 "salarié . contrat . salaire brut: 3000
+salarié . contrat . salaire brut . taux horaire: 20
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4007
 salarié . rémunération . contrôle minimum: null
@@ -680,6 +752,7 @@ salarié . rémunération . net . à payer avant impôt: 2353"
 
 exports[`calculate simulations-salarié > impôt sur le revenu - quotient familial 6`] = `
 "salarié . contrat . salaire brut: 9000
+salarié . contrat . salaire brut . taux horaire: 59
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 12895
 salarié . rémunération . contrôle minimum: null
@@ -689,6 +762,7 @@ salarié . rémunération . net . à payer avant impôt: 7149"
 
 exports[`calculate simulations-salarié > impôt sur le revenu - quotient familial 7`] = `
 "salarié . contrat . salaire brut: 9000
+salarié . contrat . salaire brut . taux horaire: 59
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 12895
 salarié . rémunération . contrôle minimum: null
@@ -698,6 +772,7 @@ salarié . rémunération . net . à payer avant impôt: 7149"
 
 exports[`calculate simulations-salarié > impôt sur le revenu - quotient familial 8`] = `
 "salarié . contrat . salaire brut: 9000
+salarié . contrat . salaire brut . taux horaire: 59
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 12895
 salarié . rémunération . contrôle minimum: null
@@ -707,6 +782,7 @@ salarié . rémunération . net . à payer avant impôt: 7149"
 
 exports[`calculate simulations-salarié > impôt sur le revenu - quotient familial 9`] = `
 "salarié . contrat . salaire brut: 3000
+salarié . contrat . salaire brut . taux horaire: 20
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4007
 salarié . rémunération . contrôle minimum: null
@@ -716,6 +792,7 @@ salarié . rémunération . net . à payer avant impôt: 2353"
 
 exports[`calculate simulations-salarié > impôt sur le revenu - quotient familial 10`] = `
 "salarié . contrat . salaire brut: 3000
+salarié . contrat . salaire brut . taux horaire: 20
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4007
 salarié . rémunération . contrôle minimum: null
@@ -725,6 +802,7 @@ salarié . rémunération . net . à payer avant impôt: 2353"
 
 exports[`calculate simulations-salarié > impôt sur le revenu - quotient familial 11`] = `
 "salarié . contrat . salaire brut: 20000
+salarié . contrat . salaire brut . taux horaire: 132
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 28458
 salarié . rémunération . contrôle minimum: null
@@ -736,6 +814,7 @@ Notifications affichées : salarié . contrat . salaire brut . contrôle salaire
 
 exports[`calculate simulations-salarié > impôt sur le revenu - quotient familial 12`] = `
 "salarié . contrat . salaire brut: 20000
+salarié . contrat . salaire brut . taux horaire: 132
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 28458
 salarié . rémunération . contrôle minimum: null
@@ -747,6 +826,7 @@ Notifications affichées : salarié . contrat . salaire brut . contrôle salaire
 
 exports[`calculate simulations-salarié > impôt sur le revenu 1`] = `
 "salarié . contrat . salaire brut: 3000
+salarié . contrat . salaire brut . taux horaire: 20
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4007
 salarié . rémunération . contrôle minimum: null
@@ -756,6 +836,7 @@ salarié . rémunération . net . à payer avant impôt: 2353"
 
 exports[`calculate simulations-salarié > impôt sur le revenu 2`] = `
 "salarié . contrat . salaire brut: 30000
+salarié . contrat . salaire brut . taux horaire: 198
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 42334
 salarié . rémunération . contrôle minimum: null
@@ -767,6 +848,7 @@ Notifications affichées : salarié . contrat . salaire brut . contrôle salaire
 
 exports[`calculate simulations-salarié > impôt sur le revenu 3`] = `
 "salarié . contrat . salaire brut: 3000
+salarié . contrat . salaire brut . taux horaire: 20
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4525
 salarié . rémunération . contrôle minimum: null
@@ -778,6 +860,7 @@ Notifications affichées : salarié . contrat . CDD . information"
 
 exports[`calculate simulations-salarié > impôt sur le revenu 4`] = `
 "salarié . contrat . salaire brut: 3000
+salarié . contrat . salaire brut . taux horaire: 20
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3605
 salarié . rémunération . contrôle minimum: null
@@ -787,6 +870,7 @@ salarié . rémunération . net . à payer avant impôt: 2353"
 
 exports[`calculate simulations-salarié > impôt sur le revenu 5`] = `
 "salarié . contrat . salaire brut: 30000
+salarié . contrat . salaire brut . taux horaire: 198
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 42334
 salarié . rémunération . contrôle minimum: null
@@ -798,6 +882,7 @@ Notifications affichées : salarié . contrat . salaire brut . contrôle salaire
 
 exports[`calculate simulations-salarié > impôt sur le revenu 6`] = `
 "salarié . contrat . salaire brut: 3000
+salarié . contrat . salaire brut . taux horaire: 20
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3657
 salarié . rémunération . contrôle minimum: null
@@ -809,6 +894,7 @@ Notifications affichées : salarié . cotisations . Mayotte"
 
 exports[`calculate simulations-salarié > impôt sur le revenu 7`] = `
 "salarié . contrat . salaire brut: 30000
+salarié . contrat . salaire brut . taux horaire: 198
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 32806
 salarié . rémunération . contrôle minimum: null
@@ -820,6 +906,7 @@ Notifications affichées : salarié . cotisations . Mayotte, salarié . contrat 
 
 exports[`calculate simulations-salarié > impôt sur le revenu 8`] = `
 "salarié . contrat . salaire brut: 3000
+salarié . contrat . salaire brut . taux horaire: 20
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4007
 salarié . rémunération . contrôle minimum: null
@@ -829,6 +916,7 @@ salarié . rémunération . net . à payer avant impôt: 2353"
 
 exports[`calculate simulations-salarié > inversions 1`] = `
 "salarié . contrat . salaire brut: 1873
+salarié . contrat . salaire brut . taux horaire: 12
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2000
 salarié . rémunération . contrôle minimum: null
@@ -838,6 +926,7 @@ salarié . rémunération . net . à payer avant impôt: 1461"
 
 exports[`calculate simulations-salarié > inversions 2`] = `
 "salarié . contrat . salaire brut: 2554
+salarié . contrat . salaire brut . taux horaire: 17
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3257
 salarié . rémunération . contrôle minimum: null
@@ -847,6 +936,7 @@ salarié . rémunération . net . à payer avant impôt: 2000"
 
 exports[`calculate simulations-salarié > inversions 3`] = `
 "salarié . contrat . salaire brut: 2667
+salarié . contrat . salaire brut . taux horaire: 18
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3452
 salarié . rémunération . contrôle minimum: null
@@ -856,6 +946,7 @@ salarié . rémunération . net . à payer avant impôt: 2090"
 
 exports[`calculate simulations-salarié > lodeom 1`] = `
 "salarié . contrat . salaire brut: 1521
+salarié . contrat . salaire brut . taux horaire: 10
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1588
 salarié . rémunération . contrôle minimum: true
@@ -867,6 +958,7 @@ Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 
 exports[`calculate simulations-salarié > lodeom 2`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2082
 salarié . rémunération . contrôle minimum: null
@@ -876,6 +968,7 @@ salarié . rémunération . net . à payer avant impôt: 1561"
 
 exports[`calculate simulations-salarié > lodeom 3`] = `
 "salarié . contrat . salaire brut: 3000
+salarié . contrat . salaire brut . taux horaire: 20
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3605
 salarié . rémunération . contrôle minimum: null
@@ -885,6 +978,7 @@ salarié . rémunération . net . à payer avant impôt: 2353"
 
 exports[`calculate simulations-salarié > lodeom 4`] = `
 "salarié . contrat . salaire brut: 4000
+salarié . contrat . salaire brut . taux horaire: 26
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 5419
 salarié . rémunération . contrôle minimum: null
@@ -894,6 +988,7 @@ salarié . rémunération . net . à payer avant impôt: 3144"
 
 exports[`calculate simulations-salarié > lodeom 5`] = `
 "salarié . contrat . salaire brut: 5500
+salarié . contrat . salaire brut . taux horaire: 36
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 7790
 salarié . rémunération . contrôle minimum: null
@@ -903,6 +998,7 @@ salarié . rémunération . net . à payer avant impôt: 4342"
 
 exports[`calculate simulations-salarié > lodeom compétitivité renforcée 1`] = `
 "salarié . contrat . salaire brut: 1521
+salarié . contrat . salaire brut . taux horaire: 10
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1588
 salarié . rémunération . contrôle minimum: true
@@ -914,6 +1010,7 @@ Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 
 exports[`calculate simulations-salarié > lodeom compétitivité renforcée 2`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2082
 salarié . rémunération . contrôle minimum: null
@@ -923,6 +1020,7 @@ salarié . rémunération . net . à payer avant impôt: 1561"
 
 exports[`calculate simulations-salarié > lodeom compétitivité renforcée 3`] = `
 "salarié . contrat . salaire brut: 3000
+salarié . contrat . salaire brut . taux horaire: 20
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3113
 salarié . rémunération . contrôle minimum: null
@@ -932,6 +1030,7 @@ salarié . rémunération . net . à payer avant impôt: 2353"
 
 exports[`calculate simulations-salarié > lodeom compétitivité renforcée 4`] = `
 "salarié . contrat . salaire brut: 4000
+salarié . contrat . salaire brut . taux horaire: 26
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4580
 salarié . rémunération . contrôle minimum: null
@@ -941,6 +1040,7 @@ salarié . rémunération . net . à payer avant impôt: 3144"
 
 exports[`calculate simulations-salarié > lodeom compétitivité renforcée 5`] = `
 "salarié . contrat . salaire brut: 5500
+salarié . contrat . salaire brut . taux horaire: 36
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 7790
 salarié . rémunération . contrôle minimum: null
@@ -950,6 +1050,7 @@ salarié . rémunération . net . à payer avant impôt: 4342"
 
 exports[`calculate simulations-salarié > lodeom innovation et croissance 1`] = `
 "salarié . contrat . salaire brut: 1521
+salarié . contrat . salaire brut . taux horaire: 10
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1588
 salarié . rémunération . contrôle minimum: true
@@ -961,6 +1062,7 @@ Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 
 exports[`calculate simulations-salarié > lodeom innovation et croissance 2`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2082
 salarié . rémunération . contrôle minimum: null
@@ -970,6 +1072,7 @@ salarié . rémunération . net . à payer avant impôt: 1561"
 
 exports[`calculate simulations-salarié > lodeom innovation et croissance 3`] = `
 "salarié . contrat . salaire brut: 3000
+salarié . contrat . salaire brut . taux horaire: 20
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3113
 salarié . rémunération . contrôle minimum: null
@@ -979,6 +1082,7 @@ salarié . rémunération . net . à payer avant impôt: 2353"
 
 exports[`calculate simulations-salarié > lodeom innovation et croissance 4`] = `
 "salarié . contrat . salaire brut: 4000
+salarié . contrat . salaire brut . taux horaire: 26
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4432
 salarié . rémunération . contrôle minimum: null
@@ -988,6 +1092,7 @@ salarié . rémunération . net . à payer avant impôt: 3144"
 
 exports[`calculate simulations-salarié > lodeom innovation et croissance 5`] = `
 "salarié . contrat . salaire brut: 5500
+salarié . contrat . salaire brut . taux horaire: 36
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 7311
 salarié . rémunération . contrôle minimum: null
@@ -997,6 +1102,7 @@ salarié . rémunération . net . à payer avant impôt: 4342"
 
 exports[`calculate simulations-salarié > stage 1`] = `
 "salarié . contrat . salaire brut: 500
+salarié . contrat . salaire brut . taux horaire: 3
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 500
 salarié . rémunération . contrôle minimum: true
@@ -1008,6 +1114,7 @@ Notifications affichées : salarié . rémunération . contrôle minimum . stage
 
 exports[`calculate simulations-salarié > stage 2`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2456
 salarié . rémunération . contrôle minimum: null
@@ -1019,6 +1126,7 @@ Notifications affichées : salarié . contrat . stage . avertissement"
 
 exports[`calculate simulations-salarié > taux spécifiques retraite complémentaire 1`] = `
 "salarié . contrat . salaire brut: 1521
+salarié . contrat . salaire brut . taux horaire: 10
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1601
 salarié . rémunération . contrôle minimum: true
@@ -1030,6 +1138,7 @@ Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 
 exports[`calculate simulations-salarié > taux spécifiques retraite complémentaire 2`] = `
 "salarié . contrat . salaire brut: 2500
+salarié . contrat . salaire brut . taux horaire: 16
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3184
 salarié . rémunération . contrôle minimum: null
@@ -1039,6 +1148,7 @@ salarié . rémunération . net . à payer avant impôt: 1979"
 
 exports[`calculate simulations-salarié > taux spécifiques retraite complémentaire 3`] = `
 "salarié . contrat . salaire brut: 1521
+salarié . contrat . salaire brut . taux horaire: 10
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1576
 salarié . rémunération . contrôle minimum: true
@@ -1050,6 +1160,7 @@ Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 
 exports[`calculate simulations-salarié > taux spécifiques retraite complémentaire 4`] = `
 "salarié . contrat . salaire brut: 2500
+salarié . contrat . salaire brut . taux horaire: 16
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3143
 salarié . rémunération . contrôle minimum: null
@@ -1059,6 +1170,7 @@ salarié . rémunération . net . à payer avant impôt: 1938"
 
 exports[`calculate simulations-salarié > temps partiel 1`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 14
 salarié . contrat . salaire brut . équivalent temps plein: 2188
 salarié . coût total employeur: 2381
 salarié . rémunération . contrôle minimum: null
@@ -1068,6 +1180,7 @@ salarié . rémunération . net . à payer avant impôt: 1561"
 
 exports[`calculate simulations-salarié > temps partiel 2`] = `
 "salarié . contrat . salaire brut: 1857
+salarié . contrat . salaire brut . taux horaire: 16
 salarié . contrat . salaire brut . équivalent temps plein: 2500
 salarié . coût total employeur: 2355
 salarié . rémunération . contrôle minimum: null
@@ -1077,6 +1190,7 @@ salarié . rémunération . net . à payer avant impôt: 1448"
 
 exports[`calculate simulations-salarié > temps partiel 3`] = `
 "salarié . contrat . salaire brut: 1000
+salarié . contrat . salaire brut . taux horaire: 12
 salarié . contrat . salaire brut . équivalent temps plein: 1750
 salarié . coût total employeur: 1051
 salarié . rémunération . contrôle minimum: true
@@ -1088,6 +1202,7 @@ Notifications affichées : salarié . rémunération . contrôle minimum . smic,
 
 exports[`calculate simulations-salarié > treizième mois 1`] = `
 "salarié . contrat . salaire brut: 2300
+salarié . contrat . salaire brut . taux horaire: 15
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3148
 salarié . rémunération . contrôle minimum: null
@@ -1097,6 +1212,7 @@ salarié . rémunération . net . à payer avant impôt: 1950"
 
 exports[`calculate simulations-salarié > treizième mois 2`] = `
 "salarié . contrat . salaire brut: 2300
+salarié . contrat . salaire brut . taux horaire: 20
 salarié . contrat . salaire brut . équivalent temps plein: 3096
 salarié . coût total employeur: 3830
 salarié . rémunération . contrôle minimum: null
@@ -1106,6 +1222,7 @@ salarié . rémunération . net . à payer avant impôt: 2176"
 
 exports[`calculate simulations-salarié > échelle de salaires 1`] = `
 "salarié . contrat . salaire brut: 100
+salarié . contrat . salaire brut . taux horaire: 1
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 123
 salarié . rémunération . contrôle minimum: true
@@ -1117,6 +1234,7 @@ Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 
 exports[`calculate simulations-salarié > échelle de salaires 2`] = `
 "salarié . contrat . salaire brut: 250
+salarié . contrat . salaire brut . taux horaire: 2
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 278
 salarié . rémunération . contrôle minimum: true
@@ -1128,6 +1246,7 @@ Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 
 exports[`calculate simulations-salarié > échelle de salaires 3`] = `
 "salarié . contrat . salaire brut: 500
+salarié . contrat . salaire brut . taux horaire: 3
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 535
 salarié . rémunération . contrôle minimum: true
@@ -1139,6 +1258,7 @@ Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 
 exports[`calculate simulations-salarié > échelle de salaires 4`] = `
 "salarié . contrat . salaire brut: 750
+salarié . contrat . salaire brut . taux horaire: 5
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 793
 salarié . rémunération . contrôle minimum: true
@@ -1150,6 +1270,7 @@ Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 
 exports[`calculate simulations-salarié > échelle de salaires 5`] = `
 "salarié . contrat . salaire brut: 1000
+salarié . contrat . salaire brut . taux horaire: 7
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1051
 salarié . rémunération . contrôle minimum: true
@@ -1161,6 +1282,7 @@ Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 
 exports[`calculate simulations-salarié > échelle de salaires 6`] = `
 "salarié . contrat . salaire brut: 1250
+salarié . contrat . salaire brut . taux horaire: 8
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1309
 salarié . rémunération . contrôle minimum: true
@@ -1172,6 +1294,7 @@ Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 
 exports[`calculate simulations-salarié > échelle de salaires 7`] = `
 "salarié . contrat . salaire brut: 1500
+salarié . contrat . salaire brut . taux horaire: 10
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1566
 salarié . rémunération . contrôle minimum: true
@@ -1183,6 +1306,7 @@ Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 
 exports[`calculate simulations-salarié > échelle de salaires 8`] = `
 "salarié . contrat . salaire brut: 2000
+salarié . contrat . salaire brut . taux horaire: 13
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2249
 salarié . rémunération . contrôle minimum: null
@@ -1192,6 +1316,7 @@ salarié . rémunération . net . à payer avant impôt: 1561"
 
 exports[`calculate simulations-salarié > échelle de salaires 9`] = `
 "salarié . contrat . salaire brut: 2500
+salarié . contrat . salaire brut . taux horaire: 16
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3163
 salarié . rémunération . contrôle minimum: null
@@ -1201,6 +1326,7 @@ salarié . rémunération . net . à payer avant impôt: 1957"
 
 exports[`calculate simulations-salarié > échelle de salaires 10`] = `
 "salarié . contrat . salaire brut: 3000
+salarié . contrat . salaire brut . taux horaire: 20
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4007
 salarié . rémunération . contrôle minimum: null
@@ -1210,6 +1336,7 @@ salarié . rémunération . net . à payer avant impôt: 2353"
 
 exports[`calculate simulations-salarié > échelle de salaires 11`] = `
 "salarié . contrat . salaire brut: 4000
+salarié . contrat . salaire brut . taux horaire: 26
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 5578
 salarié . rémunération . contrôle minimum: null
@@ -1219,6 +1346,7 @@ salarié . rémunération . net . à payer avant impôt: 3144"
 
 exports[`calculate simulations-salarié > échelle de salaires 12`] = `
 "salarié . contrat . salaire brut: 5000
+salarié . contrat . salaire brut . taux horaire: 33
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 7065
 salarié . rémunération . contrôle minimum: null
@@ -1228,6 +1356,7 @@ salarié . rémunération . net . à payer avant impôt: 3941"
 
 exports[`calculate simulations-salarié > échelle de salaires 13`] = `
 "salarié . contrat . salaire brut: 10000
+salarié . contrat . salaire brut . taux horaire: 66
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 14325
 salarié . rémunération . contrôle minimum: null
@@ -1239,6 +1368,7 @@ Notifications affichées : salarié . contrat . salaire brut . contrôle salaire
 
 exports[`calculate simulations-salarié > échelle de salaires 14`] = `
 "salarié . contrat . salaire brut: 20000
+salarié . contrat . salaire brut . taux horaire: 132
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 28458
 salarié . rémunération . contrôle minimum: null
@@ -1250,6 +1380,7 @@ Notifications affichées : salarié . contrat . salaire brut . contrôle salaire
 
 exports[`calculate simulations-salarié > échelle de salaires 15`] = `
 "salarié . contrat . salaire brut: 100000
+salarié . contrat . salaire brut . taux horaire: 659
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 129426
 salarié . rémunération . contrôle minimum: null
@@ -1261,6 +1392,7 @@ Notifications affichées : salarié . contrat . salaire brut . contrôle salaire
 
 exports[`calculate simulations-salarié > échelle de salaires 16`] = `
 "salarié . contrat . salaire brut: 1000000
+salarié . contrat . salaire brut . taux horaire: 6593
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1245300
 salarié . rémunération . contrôle minimum: null

@@ -10429,6 +10429,37 @@ salarié . contrat . salaire brut:
       résumé.fr: Le salaire si l'embauche se faisait à temps plein
       titre.en: '[automatic] Full-time equivalent gross salary'
       titre.fr: Salaire brut équivalent temps plein
+    taux horaire:
+      description.en: >
+        This is the basic gross salary divided by the number of hours set in
+        the contract, excluding overtime and additional hours.
+
+
+        The Labour Code computes monthly pay by multiplying the hourly pay by
+        52/12 of the legal weekly working time, i.e. 151.67 hours per month for
+        35 hours. For part-time work, the model applies the same rule to the
+        contract hours.
+
+
+        Not to be confused with `salarié . rémunération . taux horaire`
+        (minimum wage base / total working time), used for overtime and
+        short-time work.
+      description.fr: |
+        C'est le salaire brut de base divisé par le nombre d'heures prévues au
+        contrat, sans les heures supplémentaires ou complémentaires.
+
+        Le Code du travail calcule la rémunération mensuelle en multipliant la
+        rémunération horaire par les 52/12 de la durée légale hebdomadaire, soit
+        151,67 heures par mois pour 35 heures. Pour un temps partiel, le modèle
+        applique la même règle aux heures du contrat.
+
+        À ne pas confondre avec `salarié . rémunération . taux horaire`
+        (assiette SMIC / temps total), utilisé pour les heures supplémentaires
+        et l'activité partielle.
+      résumé.en: Gross salary per contractual hour
+      résumé.fr: Le salaire brut par heure prévue au contrat
+      titre.en: Gross hourly rate
+      titre.fr: Taux horaire brut
   description.en: >
     [automatic] This is the regular *gross* salary specified in the employment
     contract. It never

@@ -135,6 +135,7 @@ salarié . contrat . salaire brut:
     - rémunération . net . à payer avant impôt
     - rémunération . net . payé après impôt
     - équivalent temps plein
+    - taux horaire
     - dirigeant . rémunération . totale
     - entreprise . chiffre d'affaires
 
@@ -157,6 +158,26 @@ salarié . contrat . salaire brut:
       résumé: Le salaire si l'embauche se faisait à temps plein
       unité: €/mois
       valeur: salaire brut / temps de travail . quotité
+
+    taux horaire:
+      titre: Taux horaire brut
+      résumé: Le salaire brut par heure prévue au contrat
+      description: |
+        C'est le salaire brut de base divisé par le nombre d'heures prévues au
+        contrat, sans les heures supplémentaires ou complémentaires.
+
+        Le Code du travail calcule la rémunération mensuelle en multipliant la
+        rémunération horaire par les 52/12 de la durée légale hebdomadaire, soit
+        151,67 heures par mois pour 35 heures. Pour un temps partiel, le modèle
+        applique la même règle aux heures du contrat.
+
+        À ne pas confondre avec `salarié . rémunération . taux horaire`
+        (assiette SMIC / temps total), utilisé pour les heures supplémentaires
+        et l'activité partielle.
+      unité: €/heure
+      valeur: salaire brut / temps de travail
+      références:
+        Article L3242-1 du Code du travail: https://code.travail.gouv.fr/code-du-travail/l3242-1
 
 salarié . contrat . temps de travail:
   unité: heure/mois

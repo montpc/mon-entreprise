@@ -30,6 +30,7 @@ type SimulationGoalProps = {
 	editable?: boolean
 	isTypeBoolean?: boolean
 	displayedUnit?: string
+	unité?: UnitéMonétaire
 	isInfoMode?: boolean
 	round?: boolean
 	onUpdateSituation?: (name: DottedName, value?: ValeurPublicodes) => void
@@ -40,6 +41,7 @@ export function SimulationGoal({
 	label,
 	onUpdateSituation,
 	displayedUnit,
+	unité,
 	small = false,
 	round = true,
 	appear = true,
@@ -49,7 +51,8 @@ export function SimulationGoal({
 }: SimulationGoalProps) {
 	const dispatch = useDispatch()
 	const engine = useEngine()
-	const currentUnit = useSelector(targetUnitSelector)
+	const périodeChoisie = useSelector(targetUnitSelector)
+	const currentUnit = unité ?? périodeChoisie
 	const language = useTranslation().i18n.language
 
 	const evaluation = engine.evaluate({

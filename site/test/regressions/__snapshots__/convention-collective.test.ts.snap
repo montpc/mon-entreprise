@@ -2,6 +2,7 @@
 
 exports[`calculate simulations-salarié > CCN HCR 1`] = `
 "salarié . contrat . salaire brut: 2500
+salarié . contrat . salaire brut . taux horaire: 16
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3342
 salarié . rémunération . contrôle minimum: null
@@ -13,6 +14,7 @@ Notifications affichées : salarié . convention collective . avertissement conv
 
 exports[`calculate simulations-salarié > CCN batiment 1`] = `
 "salarié . contrat . salaire brut: 2500
+salarié . contrat . salaire brut . taux horaire: 16
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3714
 salarié . rémunération . contrôle minimum: null
@@ -24,6 +26,7 @@ Notifications affichées : salarié . convention collective . avertissement conv
 
 exports[`calculate simulations-salarié > CCN batiment 2`] = `
 "salarié . contrat . salaire brut: 2500
+salarié . contrat . salaire brut . taux horaire: 16
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3696
 salarié . rémunération . contrôle minimum: null
@@ -35,6 +38,7 @@ Notifications affichées : salarié . convention collective . avertissement conv
 
 exports[`calculate simulations-salarié > CCN batiment 3`] = `
 "salarié . contrat . salaire brut: 2500
+salarié . contrat . salaire brut . taux horaire: 16
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3747
 salarié . rémunération . contrôle minimum: null
@@ -46,6 +50,7 @@ Notifications affichées : salarié . convention collective . avertissement conv
 
 exports[`calculate simulations-salarié > CCN compta 1`] = `
 "salarié . contrat . salaire brut: 2500
+salarié . contrat . salaire brut . taux horaire: 16
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3229
 salarié . rémunération . contrôle minimum: null
@@ -57,6 +62,7 @@ Notifications affichées : salarié . convention collective . avertissement conv
 
 exports[`calculate simulations-salarié > CCN optique 1`] = `
 "salarié . contrat . salaire brut: 2500
+salarié . contrat . salaire brut . taux horaire: 16
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3401
 salarié . rémunération . contrôle minimum: null
@@ -68,6 +74,7 @@ Notifications affichées : salarié . convention collective . avertissement conv
 
 exports[`calculate simulations-salarié > CCN spectacle vivant 1`] = `
 "salarié . contrat . salaire brut: 2500
+salarié . contrat . salaire brut . taux horaire: 16
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3655
 salarié . rémunération . contrôle minimum: null
@@ -79,6 +86,7 @@ Notifications affichées : salarié . convention collective . avertissement conv
 
 exports[`calculate simulations-salarié > CCN sport 1`] = `
 "salarié . contrat . salaire brut: 500
+salarié . contrat . salaire brut . taux horaire: 3
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 913
 salarié . rémunération . contrôle minimum: true
@@ -90,6 +98,7 @@ Notifications affichées : salarié . convention collective . avertissement conv
 
 exports[`calculate simulations-salarié > CCN sport 2`] = `
 "salarié . contrat . salaire brut: 1800
+salarié . contrat . salaire brut . taux horaire: 12
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1868
 salarié . rémunération . contrôle minimum: true

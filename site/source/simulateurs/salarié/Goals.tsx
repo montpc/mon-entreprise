@@ -16,6 +16,12 @@ export default function SalariéSimulationGoals() {
 				small
 				dottedName="salarié . contrat . salaire brut . équivalent temps plein"
 			/>
+			<SimulationGoal
+				small
+				round={false}
+				unité="€/heure"
+				dottedName="salarié . contrat . salaire brut . taux horaire"
+			/>
 			<SimulationGoal dottedName="salarié . rémunération . net . à payer avant impôt" />
 			<TitresRestaurant />
 			<SimulationGoal dottedName="salarié . rémunération . net . payé après impôt" />

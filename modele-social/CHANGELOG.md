@@ -11,6 +11,7 @@
 - Cotisations patronales et salariales pour Mayotte
 - Calcul de la Lodeom à Mayotte
 - Calcul de la RGDU à Mayotte
+- Ajoute `salarié . contrat . salaire brut . taux horaire` : taux horaire brut sur les heures du contrat, saisissable (inversion du salaire brut)
 
 ### Mises à jour
 - Taux minimum pour la cotisation ATMP applicable depuis le 1er janvier 2026
