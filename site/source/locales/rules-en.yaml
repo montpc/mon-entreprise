@@ -15465,6 +15465,17 @@ salarié . rémunération . net . payé après impôt:
   résumé.fr: Le salaire net payé
   titre.en: Net salary after income tax
   titre.fr: Salaire net après impôt
+salarié . rémunération . net . payé après impôt . mois habituel:
+  description.en: |
+    This is the yearly net salary after tax divided by 13, with the same
+    limits as the net salary of a usual month.
+  description.fr: |
+    C'est le salaire net après impôt annuel divisé par 13, avec les mêmes
+    limites que le salaire net d'un mois habituel.
+  résumé.en: For a usual month, without the 13th-month bonus
+  résumé.fr: Pour un mois habituel, sans la prime de 13e mois
+  titre.en: Net salary after tax
+  titre.fr: Salaire net après impôt
 salarié . rémunération . net . à payer avant impôt:
   description.en: >-
     [automatic] This is the amount the employee receives at the end of the month
@@ -15487,6 +15498,25 @@ salarié . rémunération . net . à payer avant impôt:
   résumé.en: '[automatic] Net salary before tax'
   résumé.fr: Salaire net avant impôt
   titre.en: '[automatic] Net salary'
+  titre.fr: Salaire net
+salarié . rémunération . net . à payer avant impôt . mois habituel:
+  description.en: |
+    With a thirteenth month, the salary is paid 13 times a year: 12
+    usual months, and a 13th payment, most often at the end of the year.
+
+    This amount is the yearly net salary divided by 13. It is an
+    approximation: in the month the bonus is paid, capped contributions and
+    the default withholding tax rate may differ.
+  description.fr: |
+    Avec un treizième mois, le salaire est versé 13 fois dans l'année : 12
+    mois habituels, et un 13e versement le plus souvent en fin d'année.
+
+    Ce montant est le salaire net annuel divisé par 13. C'est une
+    approximation : le mois où la prime est versée, les cotisations
+    plafonnées et le taux neutre de prélèvement à la source peuvent différer.
+  résumé.en: For a usual month, without the 13th-month bonus
+  résumé.fr: Pour un mois habituel, sans la prime de 13e mois
+  titre.en: Net salary
   titre.fr: Salaire net
 salarié . rémunération . primes:
   avec:

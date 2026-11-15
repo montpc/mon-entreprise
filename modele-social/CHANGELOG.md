@@ -11,6 +11,7 @@
 - Cotisations patronales et salariales pour Mayotte
 - Calcul de la Lodeom à Mayotte
 - Calcul de la RGDU à Mayotte
+- Ajoute `salarié . rémunération . net . à payer avant impôt . mois habituel` et `salarié . rémunération . net . payé après impôt . mois habituel` : avec un treizième mois, le salaire net d'un mois habituel (le montant annuel divisé par 13)
 
 ### Mises à jour
 - Taux minimum pour la cotisation ATMP applicable depuis le 1er janvier 2026

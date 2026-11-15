@@ -135,6 +135,30 @@ salarié . rémunération . net . payé après impôt:
     - à payer avant impôt
     - (- impôt . montant)
 
+salarié . rémunération . net . à payer avant impôt . mois habituel:
+  applicable si: primes . fin d'année
+  titre: Salaire net
+  résumé: Pour un mois habituel, sans la prime de 13e mois
+  description: |
+    Avec un treizième mois, le salaire est versé 13 fois dans l'année : 12
+    mois habituels, et un 13e versement le plus souvent en fin d'année.
+
+    Ce montant est le salaire net annuel divisé par 13. C'est une
+    approximation : le mois où la prime est versée, les cotisations
+    plafonnées et le taux neutre de prélèvement à la source peuvent différer.
+  unité: €/mois
+  valeur: à payer avant impôt * 12 / 13
+
+salarié . rémunération . net . payé après impôt . mois habituel:
+  applicable si: primes . fin d'année
+  titre: Salaire net après impôt
+  résumé: Pour un mois habituel, sans la prime de 13e mois
+  description: |
+    C'est le salaire net après impôt annuel divisé par 13, avec les mêmes
+    limites que le salaire net d'un mois habituel.
+  unité: €/mois
+  valeur: payé après impôt * 12 / 13
+
 salarié . rémunération . taux horaire:
   unité: €/heure
   formule: assiette de vérification du SMIC / temps de travail

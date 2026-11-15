@@ -4,54 +4,72 @@ exports[`calculate simulations-salarié > ATMP 1`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2267
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1553
-salarié . rémunération . net . à payer avant impôt: 1561"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1561
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > ATMP 2`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2217
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1553
-salarié . rémunération . net . à payer avant impôt: 1561"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1561
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > ATMP 3`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2220
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1553
-salarié . rémunération . net . à payer avant impôt: 1561"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1561
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > ATMP 4`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2307
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1553
-salarié . rémunération . net . à payer avant impôt: 1561"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1561
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > JEI 1`] = `
 "salarié . contrat . salaire brut: 3000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3440
+salarié . rémunération . brut: 3000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2223
-salarié . rémunération . net . à payer avant impôt: 2353"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2353
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > JEI 2`] = `
 "salarié . contrat . salaire brut: 20000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 26405
+salarié . rémunération . brut: 20000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 11017
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 15966
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . contrat . salaire brut . contrôle salaire élevé"
 `;
@@ -60,9 +78,12 @@ exports[`calculate simulations-salarié > activité partielle 1`] = `
 "salarié . contrat . salaire brut: 1560
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 176
+salarié . rémunération . brut: 0
 salarié . rémunération . contrôle minimum: true
 salarié . rémunération . net . payé après impôt: 1456
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 1456
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 `;
@@ -71,72 +92,96 @@ exports[`calculate simulations-salarié > activité partielle 2`] = `
 "salarié . contrat . salaire brut: 4000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 980
+salarié . rémunération . brut: 0
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2118
-salarié . rémunération . net . à payer avant impôt: 2242"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2242
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > activité partielle 3`] = `
 "salarié . contrat . salaire brut: 8000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1940
+salarié . rémunération . brut: 0
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 3806
-salarié . rémunération . net . à payer avant impôt: 4484"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 4484
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > activité partielle 4`] = `
 "salarié . contrat . salaire brut: 4000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1613
+salarié . rémunération . brut: 800
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2272
-salarié . rémunération . net . à payer avant impôt: 2405"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2405
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > activité partielle 5`] = `
 "salarié . contrat . salaire brut: 4000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2729
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2473
-salarié . rémunération . net . à payer avant impôt: 2682"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2682
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > activité partielle 6`] = `
 "salarié . contrat . salaire brut: 3000
 salarié . contrat . salaire brut . équivalent temps plein: 3750
 salarié . coût total employeur: 740
+salarié . rémunération . brut: 0
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1762
-salarié . rémunération . net . à payer avant impôt: 1800"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1800
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > activité partielle 7`] = `
 "salarié . contrat . salaire brut: 4000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 980
+salarié . rémunération . brut: 0
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2234
-salarié . rémunération . net . à payer avant impôt: 2242"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2242
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > aides 1`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2300
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1553
-salarié . rémunération . net . à payer avant impôt: 1561"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1561
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > aides 2`] = `
 "salarié . contrat . salaire brut: 10000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 12806
+salarié . rémunération . brut: 10000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 7744
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 8912
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . contrat . salaire brut . contrôle salaire élevé"
 `;
@@ -145,18 +190,24 @@ exports[`calculate simulations-salarié > aides 3`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1832
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1553
-salarié . rémunération . net . à payer avant impôt: 1561"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1561
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > aides 4`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2439
+salarié . rémunération . brut: 2200
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1696
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 1720
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . contrat . CDD . information"
 `;
@@ -165,72 +216,96 @@ exports[`calculate simulations-salarié > apprentissage 1`] = `
 "salarié . contrat . salaire brut: 1500
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1131
+salarié . rémunération . brut: 1500
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1360
-salarié . rémunération . net . à payer avant impôt: 1360"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1360
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > apprentissage 2`] = `
 "salarié . contrat . salaire brut: 2500
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3132
+salarié . rémunération . brut: 2500
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2152
-salarié . rémunération . net . à payer avant impôt: 2152"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2152
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > avantages 1`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2439
+salarié . rémunération . brut: 2100
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1518
-salarié . rémunération . net . à payer avant impôt: 1540"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1540
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > avantages 2`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2449
+salarié . rémunération . brut: 2105
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1517
-salarié . rémunération . net . à payer avant impôt: 1539"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1539
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > avantages 3`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2370
+salarié . rémunération . brut: 2064
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1540
-salarié . rémunération . net . à payer avant impôt: 1548"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1548
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > cadre 1`] = `
 "salarié . contrat . salaire brut: 3000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4053
+salarié . rémunération . brut: 3000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2215
-salarié . rémunération . net . à payer avant impôt: 2348"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2348
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > cadre 2`] = `
 "salarié . contrat . salaire brut: 8000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 11570
+salarié . rémunération . brut: 8000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 5028
-salarié . rémunération . net . à payer avant impôt: 6232"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 6232
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > cdd 1`] = `
 "salarié . contrat . salaire brut: 2200
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3046
+salarié . rémunération . brut: 2420
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1854
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 1894
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . contrat . CDD . information"
 `;
@@ -239,9 +314,12 @@ exports[`calculate simulations-salarié > cdd 2`] = `
 "salarié . contrat . salaire brut: 2200
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3302
+salarié . rémunération . brut: 2565
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1935
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 2009
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . contrat . CDD . information"
 `;
@@ -250,9 +328,12 @@ exports[`calculate simulations-salarié > cdd 3`] = `
 "salarié . contrat . salaire brut: 2200
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3576
+salarié . rémunération . brut: 2777
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2122
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 2197
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . contrat . CDD . information"
 `;
@@ -261,9 +342,12 @@ exports[`calculate simulations-salarié > cdd 4`] = `
 "salarié . contrat . salaire brut: 2200
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4365
+salarié . rémunération . brut: 3182
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2241
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 2375
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . contrat . CDD . information"
 `;
@@ -272,9 +356,12 @@ exports[`calculate simulations-salarié > cdd 5`] = `
 "salarié . contrat . salaire brut: 2200
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3576
+salarié . rémunération . brut: 2420
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1815
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 1871
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . convention collective . avertissement convention collective, salarié . contrat . CDD . information"
 `;
@@ -283,99 +370,132 @@ exports[`calculate simulations-salarié > contrat pro 1`] = `
 "salarié . contrat . salaire brut: 1500
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1566
+salarié . rémunération . brut: 1500
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1165
-salarié . rémunération . net . à payer avant impôt: 1165"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1165
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > effectif 1`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2249
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1553
-salarié . rémunération . net . à payer avant impôt: 1561"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1561
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > effectif 2`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2259
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1553
-salarié . rémunération . net . à payer avant impôt: 1561"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1561
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > effectif 3`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2270
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1553
-salarié . rémunération . net . à payer avant impôt: 1561"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1561
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > effectif 4`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2270
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1553
-salarié . rémunération . net . à payer avant impôt: 1561"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1561
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - DFS 1`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2121
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1576
-salarié . rémunération . net . à payer avant impôt: 1576"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1576
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - DFS 2`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2121
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1576
-salarié . rémunération . net . à payer avant impôt: 1576"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1576
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - DFS 3`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2121
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1576
-salarié . rémunération . net . à payer avant impôt: 1576"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1576
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - DFS 4`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2121
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1576
-salarié . rémunération . net . à payer avant impôt: 1576"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1576
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - DFS 5`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2249
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1553
-salarié . rémunération . net . à payer avant impôt: 1561"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1561
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - DFS 6`] = `
 "salarié . contrat . salaire brut: 1700
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1821
+salarié . rémunération . brut: 1700
 salarié . rémunération . contrôle minimum: true
 salarié . rémunération . net . payé après impôt: 1305
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 1305
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 `;
@@ -384,207 +504,276 @@ exports[`calculate simulations-salarié > frais pro - DFS 7`] = `
 "salarié . contrat . salaire brut: 2600
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2948
+salarié . rémunération . brut: 2600
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2107
-salarié . rémunération . net . à payer avant impôt: 2107"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2107
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - abo transports + transports personnels 1`] = `
 "salarié . contrat . salaire brut: 3200
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4373
+salarié . rémunération . brut: 3200
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2414
-salarié . rémunération . net . à payer avant impôt: 2553"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2553
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - abo transports + transports personnels 2`] = `
 "salarié . contrat . salaire brut: 3200
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 5087
+salarié . rémunération . brut: 3637
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2700
-salarié . rémunération . net . à payer avant impôt: 2924"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2924
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - abo transports + transports personnels 3`] = `
 "salarié . contrat . salaire brut: 3200
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4690
+salarié . rémunération . brut: 3242
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2695
-salarié . rémunération . net . à payer avant impôt: 2836"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2836
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - abonnement transports publics 1`] = `
 "salarié . contrat . salaire brut: 3200
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4372
+salarié . rémunération . brut: 3200
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2412
-salarié . rémunération . net . à payer avant impôt: 2551"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2551
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - abonnement transports publics 2`] = `
 "salarié . contrat . salaire brut: 3200
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 5082
+salarié . rémunération . brut: 3200
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 3122
-salarié . rémunération . net . à payer avant impôt: 3261"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 3261
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - abonnement transports publics 3`] = `
 "salarié . contrat . salaire brut: 3200
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4372
+salarié . rémunération . brut: 3200
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2412
-salarié . rémunération . net . à payer avant impôt: 2551"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2551
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - abonnement transports publics 4`] = `
 "salarié . contrat . salaire brut: 3200
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4348
+salarié . rémunération . brut: 3200
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2388
-salarié . rémunération . net . à payer avant impôt: 2527"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2527
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - outre-mer 1`] = `
 "salarié . contrat . salaire brut: 3200
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4043
+salarié . rémunération . brut: 3200
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2531
-salarié . rémunération . net . à payer avant impôt: 2586"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2586
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - outre-mer 2`] = `
 "salarié . contrat . salaire brut: 3200
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4057
+salarié . rémunération . brut: 3217
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2527
-salarié . rémunération . net . à payer avant impôt: 2583"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2583
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - titres restaurant 1`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2289
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1513
-salarié . rémunération . net . à payer avant impôt: 1521"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1521
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - titres restaurant 2`] = `
 "salarié . contrat . salaire brut: 3000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4241
+salarié . rémunération . brut: 3054
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2009
-salarié . rémunération . net . à payer avant impôt: 2142"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2142
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - titres restaurant 3`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2332
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1485
-salarié . rémunération . net . à payer avant impôt: 1493"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1493
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - transports personnels seul 1`] = `
 "salarié . contrat . salaire brut: 3200
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4373
+salarié . rémunération . brut: 3200
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2414
-salarié . rémunération . net . à payer avant impôt: 2553"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2553
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - transports personnels seul 2`] = `
 "salarié . contrat . salaire brut: 3200
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4373
+salarié . rémunération . brut: 3200
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2414
-salarié . rémunération . net . à payer avant impôt: 2553"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2553
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - transports personnels seul 3`] = `
 "salarié . contrat . salaire brut: 3200
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 5087
+salarié . rémunération . brut: 3642
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2695
-salarié . rémunération . net . à payer avant impôt: 2919"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2919
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - transports personnels seul 4`] = `
 "salarié . contrat . salaire brut: 3200
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4373
+salarié . rémunération . brut: 3200
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2414
-salarié . rémunération . net . à payer avant impôt: 2553"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2553
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - transports personnels seul 5`] = `
 "salarié . contrat . salaire brut: 3200
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4348
+salarié . rémunération . brut: 3200
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2389
-salarié . rémunération . net . à payer avant impôt: 2528"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2528
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > frais pro - transports personnels seul 6`] = `
 "salarié . contrat . salaire brut: 3200
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4146
+salarié . rémunération . brut: 3200
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2505
-salarié . rémunération . net . à payer avant impôt: 2564"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2564
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > heures supplémentaires et complémentaires 1`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2346
+salarié . rémunération . brut: 2082
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1628
-salarié . rémunération . net . à payer avant impôt: 1636"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1636
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > heures supplémentaires et complémentaires 2`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2307
+salarié . rémunération . brut: 2049
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1598
-salarié . rémunération . net . à payer avant impôt: 1606"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1606
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > heures supplémentaires et complémentaires 3`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2374
+salarié . rémunération . brut: 2082
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1628
-salarié . rémunération . net . à payer avant impôt: 1636"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1636
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > heures supplémentaires et complémentaires 4`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2345
+salarié . rémunération . brut: 2073
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1607
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 1616
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . convention collective . avertissement convention collective"
 `;
@@ -593,9 +782,12 @@ exports[`calculate simulations-salarié > heures supplémentaires et complément
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2314
+salarié . rémunération . brut: 2044
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1581
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 1589
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . convention collective . avertissement convention collective"
 `;
@@ -604,9 +796,12 @@ exports[`calculate simulations-salarié > heures supplémentaires et complément
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2296
+salarié . rémunération . brut: 2044
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1592
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 1601
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . convention collective . avertissement convention collective"
 `;
@@ -615,9 +810,12 @@ exports[`calculate simulations-salarié > heures supplémentaires et complément
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: 2917
 salarié . coût total employeur: 3279
+salarié . rémunération . brut: 2452
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1919
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 1919
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . temps de travail . heures complémentaires . contrôle heures complémentaires 10 pourcents"
 `;
@@ -626,9 +824,12 @@ exports[`calculate simulations-salarié > heures supplémentaires et complément
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: 2692
 salarié . coût total employeur: 3159
+salarié . rémunération . brut: 2414
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1889
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 1889
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . temps de travail . heures complémentaires . contrôle heures complémentaires 10 pourcents"
 `;
@@ -637,99 +838,132 @@ exports[`calculate simulations-salarié > impôt sur le revenu - quotient famili
 "salarié . contrat . salaire brut: 3000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4007
+salarié . rémunération . brut: 3000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2306
-salarié . rémunération . net . à payer avant impôt: 2353"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2353
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > impôt sur le revenu - quotient familial 2`] = `
 "salarié . contrat . salaire brut: 3000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4007
+salarié . rémunération . brut: 3000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2353
-salarié . rémunération . net . à payer avant impôt: 2353"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2353
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > impôt sur le revenu - quotient familial 3`] = `
 "salarié . contrat . salaire brut: 3000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4007
+salarié . rémunération . brut: 3000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2353
-salarié . rémunération . net . à payer avant impôt: 2353"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2353
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > impôt sur le revenu - quotient familial 4`] = `
 "salarié . contrat . salaire brut: 3000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4007
+salarié . rémunération . brut: 3000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1973
-salarié . rémunération . net . à payer avant impôt: 2353"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2353
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > impôt sur le revenu - quotient familial 5`] = `
 "salarié . contrat . salaire brut: 3000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4007
+salarié . rémunération . brut: 3000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2215
-salarié . rémunération . net . à payer avant impôt: 2353"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2353
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > impôt sur le revenu - quotient familial 6`] = `
 "salarié . contrat . salaire brut: 9000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 12895
+salarié . rémunération . brut: 9000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 6294
-salarié . rémunération . net . à payer avant impôt: 7149"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 7149
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > impôt sur le revenu - quotient familial 7`] = `
 "salarié . contrat . salaire brut: 9000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 12895
+salarié . rémunération . brut: 9000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 6733
-salarié . rémunération . net . à payer avant impôt: 7149"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 7149
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > impôt sur le revenu - quotient familial 8`] = `
 "salarié . contrat . salaire brut: 9000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 12895
+salarié . rémunération . brut: 9000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 6977
-salarié . rémunération . net . à payer avant impôt: 7149"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 7149
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > impôt sur le revenu - quotient familial 9`] = `
 "salarié . contrat . salaire brut: 3000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4007
+salarié . rémunération . brut: 3000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2228
-salarié . rémunération . net . à payer avant impôt: 2353"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2353
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > impôt sur le revenu - quotient familial 10`] = `
 "salarié . contrat . salaire brut: 3000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4007
+salarié . rémunération . brut: 3000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2353
-salarié . rémunération . net . à payer avant impôt: 2353"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2353
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > impôt sur le revenu - quotient familial 11`] = `
 "salarié . contrat . salaire brut: 20000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 28458
+salarié . rémunération . brut: 20000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 13086
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 15966
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . contrat . salaire brut . contrôle salaire élevé"
 `;
@@ -738,9 +972,12 @@ exports[`calculate simulations-salarié > impôt sur le revenu - quotient famili
 "salarié . contrat . salaire brut: 20000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 28458
+salarié . rémunération . brut: 20000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 11372
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 15966
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . contrat . salaire brut . contrôle salaire élevé"
 `;
@@ -749,18 +986,24 @@ exports[`calculate simulations-salarié > impôt sur le revenu 1`] = `
 "salarié . contrat . salaire brut: 3000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4007
+salarié . rémunération . brut: 3000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2223
-salarié . rémunération . net . à payer avant impôt: 2353"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2353
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > impôt sur le revenu 2`] = `
 "salarié . contrat . salaire brut: 30000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 42334
+salarié . rémunération . brut: 30000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 15768
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 23970
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . contrat . salaire brut . contrôle salaire élevé"
 `;
@@ -769,9 +1012,12 @@ exports[`calculate simulations-salarié > impôt sur le revenu 3`] = `
 "salarié . contrat . salaire brut: 3000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4525
+salarié . rémunération . brut: 3300
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2451
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 2590
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . contrat . CDD . information"
 `;
@@ -780,18 +1026,24 @@ exports[`calculate simulations-salarié > impôt sur le revenu 4`] = `
 "salarié . contrat . salaire brut: 3000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3605
+salarié . rémunération . brut: 3000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2282
-salarié . rémunération . net . à payer avant impôt: 2353"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2353
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > impôt sur le revenu 5`] = `
 "salarié . contrat . salaire brut: 30000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 42334
+salarié . rémunération . brut: 30000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 15768
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 23970
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . contrat . salaire brut . contrôle salaire élevé"
 `;
@@ -800,9 +1052,12 @@ exports[`calculate simulations-salarié > impôt sur le revenu 6`] = `
 "salarié . contrat . salaire brut: 3000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3657
+salarié . rémunération . brut: 3000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2601
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 2657
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . cotisations . Mayotte"
 `;
@@ -811,9 +1066,12 @@ exports[`calculate simulations-salarié > impôt sur le revenu 7`] = `
 "salarié . contrat . salaire brut: 30000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 32806
+salarié . rémunération . brut: 30000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 18919
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 28247
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . cotisations . Mayotte, salarié . contrat . salaire brut . contrôle salaire élevé"
 `;
@@ -822,45 +1080,60 @@ exports[`calculate simulations-salarié > impôt sur le revenu 8`] = `
 "salarié . contrat . salaire brut: 3000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4007
+salarié . rémunération . brut: 3000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2107
-salarié . rémunération . net . à payer avant impôt: 2353"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2353
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > inversions 1`] = `
 "salarié . contrat . salaire brut: 1873
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2000
+salarié . rémunération . brut: 1873
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1461
-salarié . rémunération . net . à payer avant impôt: 1461"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1461
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > inversions 2`] = `
 "salarié . contrat . salaire brut: 2554
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3257
+salarié . rémunération . brut: 2554
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1927
-salarié . rémunération . net . à payer avant impôt: 2000"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2000
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > inversions 3`] = `
 "salarié . contrat . salaire brut: 2667
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3452
+salarié . rémunération . brut: 2667
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2000
-salarié . rémunération . net . à payer avant impôt: 2090"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2090
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > lodeom 1`] = `
 "salarié . contrat . salaire brut: 1521
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1588
+salarié . rémunération . brut: 1521
 salarié . rémunération . contrôle minimum: true
 salarié . rémunération . net . payé après impôt: 1182
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 1182
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 `;
@@ -869,45 +1142,60 @@ exports[`calculate simulations-salarié > lodeom 2`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2082
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1553
-salarié . rémunération . net . à payer avant impôt: 1561"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1561
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > lodeom 3`] = `
 "salarié . contrat . salaire brut: 3000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3605
+salarié . rémunération . brut: 3000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2223
-salarié . rémunération . net . à payer avant impôt: 2353"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2353
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > lodeom 4`] = `
 "salarié . contrat . salaire brut: 4000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 5419
+salarié . rémunération . brut: 4000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2820
-salarié . rémunération . net . à payer avant impôt: 3144"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 3144
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > lodeom 5`] = `
 "salarié . contrat . salaire brut: 5500
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 7790
+salarié . rémunération . brut: 5500
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 3718
-salarié . rémunération . net . à payer avant impôt: 4342"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 4342
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > lodeom compétitivité renforcée 1`] = `
 "salarié . contrat . salaire brut: 1521
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1588
+salarié . rémunération . brut: 1521
 salarié . rémunération . contrôle minimum: true
 salarié . rémunération . net . payé après impôt: 1182
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 1182
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 `;
@@ -916,45 +1204,60 @@ exports[`calculate simulations-salarié > lodeom compétitivité renforcée 2`] 
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2082
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1553
-salarié . rémunération . net . à payer avant impôt: 1561"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1561
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > lodeom compétitivité renforcée 3`] = `
 "salarié . contrat . salaire brut: 3000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3113
+salarié . rémunération . brut: 3000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2223
-salarié . rémunération . net . à payer avant impôt: 2353"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2353
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > lodeom compétitivité renforcée 4`] = `
 "salarié . contrat . salaire brut: 4000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4580
+salarié . rémunération . brut: 4000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2820
-salarié . rémunération . net . à payer avant impôt: 3144"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 3144
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > lodeom compétitivité renforcée 5`] = `
 "salarié . contrat . salaire brut: 5500
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 7790
+salarié . rémunération . brut: 5500
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 3718
-salarié . rémunération . net . à payer avant impôt: 4342"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 4342
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > lodeom innovation et croissance 1`] = `
 "salarié . contrat . salaire brut: 1521
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1588
+salarié . rémunération . brut: 1521
 salarié . rémunération . contrôle minimum: true
 salarié . rémunération . net . payé après impôt: 1182
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 1182
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 `;
@@ -963,45 +1266,60 @@ exports[`calculate simulations-salarié > lodeom innovation et croissance 2`] = 
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2082
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1553
-salarié . rémunération . net . à payer avant impôt: 1561"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1561
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > lodeom innovation et croissance 3`] = `
 "salarié . contrat . salaire brut: 3000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3113
+salarié . rémunération . brut: 3000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2223
-salarié . rémunération . net . à payer avant impôt: 2353"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2353
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > lodeom innovation et croissance 4`] = `
 "salarié . contrat . salaire brut: 4000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4432
+salarié . rémunération . brut: 4000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2820
-salarié . rémunération . net . à payer avant impôt: 3144"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 3144
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > lodeom innovation et croissance 5`] = `
 "salarié . contrat . salaire brut: 5500
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 7311
+salarié . rémunération . brut: 5500
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 3718
-salarié . rémunération . net . à payer avant impôt: 4342"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 4342
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > stage 1`] = `
 "salarié . contrat . salaire brut: 500
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 500
+salarié . rémunération . brut: 500
 salarié . rémunération . contrôle minimum: true
 salarié . rémunération . net . payé après impôt: 500
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 500
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . rémunération . contrôle minimum . stage, salarié . contrat . stage . avertissement"
 `;
@@ -1010,9 +1328,12 @@ exports[`calculate simulations-salarié > stage 2`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2456
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1765
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 1765
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . contrat . stage . avertissement"
 `;
@@ -1021,9 +1342,12 @@ exports[`calculate simulations-salarié > taux spécifiques retraite complément
 "salarié . contrat . salaire brut: 1521
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1601
+salarié . rémunération . brut: 1521
 salarié . rémunération . contrôle minimum: true
 salarié . rémunération . net . payé après impôt: 1195
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 1195
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 `;
@@ -1032,18 +1356,24 @@ exports[`calculate simulations-salarié > taux spécifiques retraite complément
 "salarié . contrat . salaire brut: 2500
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3184
+salarié . rémunération . brut: 2500
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1906
-salarié . rémunération . net . à payer avant impôt: 1979"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1979
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > taux spécifiques retraite complémentaire 3`] = `
 "salarié . contrat . salaire brut: 1521
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1576
+salarié . rémunération . brut: 1521
 salarié . rémunération . contrôle minimum: true
 salarié . rémunération . net . payé après impôt: 1170
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 1170
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 `;
@@ -1052,36 +1382,48 @@ exports[`calculate simulations-salarié > taux spécifiques retraite complément
 "salarié . contrat . salaire brut: 2500
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3143
+salarié . rémunération . brut: 2500
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1879
-salarié . rémunération . net . à payer avant impôt: 1938"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1938
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > temps partiel 1`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: 2188
 salarié . coût total employeur: 2381
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1553
-salarié . rémunération . net . à payer avant impôt: 1561"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1561
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > temps partiel 2`] = `
 "salarié . contrat . salaire brut: 1857
 salarié . contrat . salaire brut . équivalent temps plein: 2500
 salarié . coût total employeur: 2355
+salarié . rémunération . brut: 1857
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1448
-salarié . rémunération . net . à payer avant impôt: 1448"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1448
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > temps partiel 3`] = `
 "salarié . contrat . salaire brut: 1000
 salarié . contrat . salaire brut . équivalent temps plein: 1750
 salarié . coût total employeur: 1051
+salarié . rémunération . brut: 1000
 salarié . rémunération . contrôle minimum: true
 salarié . rémunération . net . payé après impôt: 770
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 770
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . rémunération . contrôle minimum . smic, salarié . contrat . temps de travail . temps partiel . contrôle temps min"
 `;
@@ -1090,27 +1432,36 @@ exports[`calculate simulations-salarié > treizième mois 1`] = `
 "salarié . contrat . salaire brut: 2300
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3148
+salarié . rémunération . brut: 2492
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1891
-salarié . rémunération . net . à payer avant impôt: 1950"
+salarié . rémunération . net . payé après impôt . mois habituel: 1746
+salarié . rémunération . net . à payer avant impôt: 1950
+salarié . rémunération . net . à payer avant impôt . mois habituel: 1800"
 `;
 
 exports[`calculate simulations-salarié > treizième mois 2`] = `
 "salarié . contrat . salaire brut: 2300
 salarié . contrat . salaire brut . équivalent temps plein: 3096
 salarié . coût total employeur: 3830
+salarié . rémunération . brut: 2777
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2101
-salarié . rémunération . net . à payer avant impôt: 2176"
+salarié . rémunération . net . payé après impôt . mois habituel: 1939
+salarié . rémunération . net . à payer avant impôt: 2176
+salarié . rémunération . net . à payer avant impôt . mois habituel: 2009"
 `;
 
 exports[`calculate simulations-salarié > échelle de salaires 1`] = `
 "salarié . contrat . salaire brut: 100
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 123
+salarié . rémunération . brut: 100
 salarié . rémunération . contrôle minimum: true
 salarié . rémunération . net . payé après impôt: 57
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 57
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 `;
@@ -1119,9 +1470,12 @@ exports[`calculate simulations-salarié > échelle de salaires 2`] = `
 "salarié . contrat . salaire brut: 250
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 278
+salarié . rémunération . brut: 250
 salarié . rémunération . contrôle minimum: true
 salarié . rémunération . net . payé après impôt: 176
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 176
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 `;
@@ -1130,9 +1484,12 @@ exports[`calculate simulations-salarié > échelle de salaires 3`] = `
 "salarié . contrat . salaire brut: 500
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 535
+salarié . rémunération . brut: 500
 salarié . rémunération . contrôle minimum: true
 salarié . rémunération . net . payé après impôt: 374
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 374
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 `;
@@ -1141,9 +1498,12 @@ exports[`calculate simulations-salarié > échelle de salaires 4`] = `
 "salarié . contrat . salaire brut: 750
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 793
+salarié . rémunération . brut: 750
 salarié . rémunération . contrôle minimum: true
 salarié . rémunération . net . payé après impôt: 572
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 572
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 `;
@@ -1152,9 +1512,12 @@ exports[`calculate simulations-salarié > échelle de salaires 5`] = `
 "salarié . contrat . salaire brut: 1000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1051
+salarié . rémunération . brut: 1000
 salarié . rémunération . contrôle minimum: true
 salarié . rémunération . net . payé après impôt: 770
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 770
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 `;
@@ -1163,9 +1526,12 @@ exports[`calculate simulations-salarié > échelle de salaires 6`] = `
 "salarié . contrat . salaire brut: 1250
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1309
+salarié . rémunération . brut: 1250
 salarié . rémunération . contrôle minimum: true
 salarié . rémunération . net . payé après impôt: 968
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 968
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 `;
@@ -1174,9 +1540,12 @@ exports[`calculate simulations-salarié > échelle de salaires 7`] = `
 "salarié . contrat . salaire brut: 1500
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1566
+salarié . rémunération . brut: 1500
 salarié . rémunération . contrôle minimum: true
 salarié . rémunération . net . payé après impôt: 1165
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 1165
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . rémunération . contrôle minimum . smic"
 `;
@@ -1185,54 +1554,72 @@ exports[`calculate simulations-salarié > échelle de salaires 8`] = `
 "salarié . contrat . salaire brut: 2000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 2249
+salarié . rémunération . brut: 2000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1553
-salarié . rémunération . net . à payer avant impôt: 1561"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1561
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > échelle de salaires 9`] = `
 "salarié . contrat . salaire brut: 2500
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 3163
+salarié . rémunération . brut: 2500
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 1898
-salarié . rémunération . net . à payer avant impôt: 1957"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 1957
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > échelle de salaires 10`] = `
 "salarié . contrat . salaire brut: 3000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 4007
+salarié . rémunération . brut: 3000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2223
-salarié . rémunération . net . à payer avant impôt: 2353"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 2353
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > échelle de salaires 11`] = `
 "salarié . contrat . salaire brut: 4000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 5578
+salarié . rémunération . brut: 4000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 2820
-salarié . rémunération . net . à payer avant impôt: 3144"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 3144
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > échelle de salaires 12`] = `
 "salarié . contrat . salaire brut: 5000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 7065
+salarié . rémunération . brut: 5000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 3375
-salarié . rémunération . net . à payer avant impôt: 3941"
+salarié . rémunération . net . payé après impôt . mois habituel: null
+salarié . rémunération . net . à payer avant impôt: 3941
+salarié . rémunération . net . à payer avant impôt . mois habituel: null"
 `;
 
 exports[`calculate simulations-salarié > échelle de salaires 13`] = `
 "salarié . contrat . salaire brut: 10000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 14325
+salarié . rémunération . brut: 10000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 6255
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 7951
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . contrat . salaire brut . contrôle salaire élevé"
 `;
@@ -1241,9 +1628,12 @@ exports[`calculate simulations-salarié > échelle de salaires 14`] = `
 "salarié . contrat . salaire brut: 20000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 28458
+salarié . rémunération . brut: 20000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 11017
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 15966
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . contrat . salaire brut . contrôle salaire élevé"
 `;
@@ -1252,9 +1642,12 @@ exports[`calculate simulations-salarié > échelle de salaires 15`] = `
 "salarié . contrat . salaire brut: 100000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 129426
+salarié . rémunération . brut: 100000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 46381
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 86698
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . contrat . salaire brut . contrôle salaire élevé"
 `;
@@ -1263,9 +1656,12 @@ exports[`calculate simulations-salarié > échelle de salaires 16`] = `
 "salarié . contrat . salaire brut: 1000000
 salarié . contrat . salaire brut . équivalent temps plein: null
 salarié . coût total employeur: 1245300
+salarié . rémunération . brut: 1000000
 salarié . rémunération . contrôle minimum: null
 salarié . rémunération . net . payé après impôt: 446233
+salarié . rémunération . net . payé après impôt . mois habituel: null
 salarié . rémunération . net . à payer avant impôt: 895798
+salarié . rémunération . net . à payer avant impôt . mois habituel: null
 
 Notifications affichées : salarié . contrat . salaire brut . contrôle salaire élevé"
 `;

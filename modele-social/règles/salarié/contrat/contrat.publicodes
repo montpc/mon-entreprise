@@ -135,6 +135,8 @@ salarié . contrat . salaire brut:
     - rémunération . net . à payer avant impôt
     - rémunération . net . payé après impôt
     - équivalent temps plein
+    - rémunération . net . à payer avant impôt . mois habituel
+    - rémunération . net . payé après impôt . mois habituel
     - dirigeant . rémunération . totale
     - entreprise . chiffre d'affaires
 

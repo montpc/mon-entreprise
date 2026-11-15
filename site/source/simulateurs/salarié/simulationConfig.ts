@@ -7,8 +7,11 @@ export const configSalarié: PublicodesSimulationConfig = {
 		'salarié . coût total employeur',
 		'salarié . contrat . salaire brut',
 		'salarié . contrat . salaire brut . équivalent temps plein',
+		'salarié . rémunération . brut',
 		'salarié . rémunération . net . à payer avant impôt',
+		'salarié . rémunération . net . à payer avant impôt . mois habituel',
 		'salarié . rémunération . net . payé après impôt',
+		'salarié . rémunération . net . payé après impôt . mois habituel',
 	],
 	objectifs: ['salarié . rémunération . contrôle minimum'],
 	questions: {
